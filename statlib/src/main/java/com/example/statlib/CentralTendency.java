@@ -32,7 +32,7 @@ public class CentralTendency {
         return result / numbers.size();
     }
 
-    private static int add(int a, int b) {
+    public static int add(int a, int b) {
         return a + b;
     }
 }
